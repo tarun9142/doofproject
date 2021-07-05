@@ -33,10 +33,6 @@ const Container = styled.div`
     background-color: #FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
-    @media only screen and (min-width: 768px) {
-        width: 10vw;
-
-    }
 `;
 const BackgroundContainer = styled.div`
     position: absolute;
